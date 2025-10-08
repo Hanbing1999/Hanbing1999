@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Computational Biology and Neuroscience at The Scripps 
   I work on building a scalable, end-to-end Python pipelines that use mixed-effects models, convolution-based feature engineering, and regularization to characterize complex temporal dynamics. I innovated rigorous statistical framework using methods like hierarchical bootstrapping and permutation tests and have experience deploying these pipelines on HPC clusters.
 - #### A Multi-modal Learning framework for predicting spatially-resolved drug-target engagement across the brain
 
-## Skills: 
+## 🚀 Skills: 
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
 ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
